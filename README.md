@@ -21,4 +21,4 @@ Android studio 是Google官方推出的Android最新开发工具，
 **[tools.android.com](http://tools.android.com)**  
 **[developer.android.com](http://developer.android.com/intl/zh-cn/index.html)**  
 
-**[楼主做的视频介绍-_-]()**  
+**[楼主做的视频介绍-_-](http://v.youku.com/v_show/id_XMTQ1MDcyNzI3Ng==.html)**  
