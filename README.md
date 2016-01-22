@@ -12,6 +12,7 @@
 ===============
 ##<a name="index"/>目录
 * [第一期 开发工具-Android Studio](#first)
+* [第二期 DataBinding library](#second)
 
 ***
 
@@ -22,3 +23,13 @@ Android studio 是Google官方推出的Android最新开发工具，
 **[developer.android.com](http://developer.android.com/intl/zh-cn/index.html)**  
 
 **[楼主做的视频介绍-_-](http://v.youku.com/v_show/id_XMTQ1MDcyNzI3Ng==.html)**  
+
+##<a anme="second"/>DataBinding library
+Android 官方推出的开发框架（还是beta版本）  
+告别N多的findViewById()方法，全新的Android编程体验，让你的代码逻辑更加清析  
+**[体验一把吧^_^](http://developer.android.com/intl/zh-cn/tools/data-binding/guide.html)**
+从以下官方网站获取相关信息：  
+**[data binding library](http://developer.android.com/intl/zh-cn/tools/data-binding/guide.html)**  
+**[Dev summilt介绍](https://www.youtube.com/watch?v=NBbeQMOcnZ0)**  
+
+**[楼主做的视频介绍^_^]()**  
